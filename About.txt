@@ -1,0 +1,5 @@
+This is a basic chat server made with python
+It is based on the command line
+To use it, the server script must be run on the machine you want to be the server
+Then the client script can be run on any other machine
+It will only work if all the machines are on the same internet network
